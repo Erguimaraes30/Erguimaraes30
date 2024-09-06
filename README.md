@@ -9,7 +9,7 @@
 
 ### Projetos
 
-[![](https://img.shields.io/badge/-🚀%20Passeio%20Carioca-000)](https://github.com/Erguimaraes30/react-base-project.git)
+[![](https://img.shields.io/badge/-🚀%20Passeio%20Carioca-000)](https://github.com/Thalesvpr/react-passeio-carioca-project)
 [![](https://img.shields.io/badge/-🚀%20Python%20Game-000)](https://github.com/Erguimaraes30/Python-jogo.git)
 [![](https://img.shields.io/badge/-🚀%20Projeto%20Elenco_Botafogo-000)](https://github.com/Erguimaraes30/DesenvolvimentoWeb_siteBotafogo.git)
 [![](https://img.shields.io/badge/-🚀%20CineReview%20Project-000)](https://github.com/Erguimaraes30/Ap2-cineReview.git)
