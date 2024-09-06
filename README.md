@@ -9,16 +9,16 @@
 
 ### Projetos
 
-[![](https://img.shields.io/badge/-🚀%20Passeio%20Carioca-000)](https://thalesvpr.github.io/react-passeio-carioca-project/)
-[![](https://img.shields.io/badge/-🚀%20Python%20Game-000)](https://github.com/EduardoParga/Python-Game)
-[![](https://img.shields.io/badge/-🚀%20Projeto%20Elenco_Botafogo-000)](https://eduardoparga.github.io/AP2-DESENVOLVIMENTO/)
-[![](https://img.shields.io/badge/-🚀%20CineReview%20Project-000)](https://66d216953b06cc2dd8162dbc--cheery-squirrel-38eeac.netlify.app/)
+[![](https://img.shields.io/badge/-🚀%20Passeio%20Carioca-000)](https://github.com/Erguimaraes30/react-base-project.git)
+[![](https://img.shields.io/badge/-🚀%20Python%20Game-000)](https://github.com/Erguimaraes30/Python-jogo.git)
+[![](https://img.shields.io/badge/-🚀%20Projeto%20Elenco_Botafogo-000)](https://github.com/Erguimaraes30/DesenvolvimentoWeb_siteBotafogo.git)
+[![](https://img.shields.io/badge/-🚀%20CineReview%20Project-000)](https://github.com/Erguimaraes30/Ap2-cineReview.git)
 
 ### Tecnologias
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 
- ## https://www.linkedin.com/in/eduardo-ferreira-parga-882036321/
+ ## https://www.linkedin.com/in/enzo-rafael-guimar%C3%A3es-1532a5323/
 
 <div align="center">
   <a href="https://github.com/EduardoParga/EduardoParga">
